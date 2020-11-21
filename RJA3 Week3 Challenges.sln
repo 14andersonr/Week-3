@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RJA3 Week3 Challenges", "RJA3 Week3 Challenges\RJA3 Week3 Challenges.csproj", "{1FC73903-2FA6-435A-807D-F93579733EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesRunProgram", "ConsoleApp1\GamesRunProgram.csproj", "{51F719AD-1151-48E6-A4C7-350015E90FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC73903-2FA6-435A-807D-F93579733EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC73903-2FA6-435A-807D-F93579733EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC73903-2FA6-435A-807D-F93579733EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC73903-2FA6-435A-807D-F93579733EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F719AD-1151-48E6-A4C7-350015E90FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F719AD-1151-48E6-A4C7-350015E90FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F719AD-1151-48E6-A4C7-350015E90FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F719AD-1151-48E6-A4C7-350015E90FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3F002B-7ADB-4CF3-9470-CA49959FC058}
+	EndGlobalSection
+EndGlobal
