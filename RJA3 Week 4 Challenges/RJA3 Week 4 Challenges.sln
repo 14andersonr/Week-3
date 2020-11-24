@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RJA3 Week 4 Challenges", "RJA3 Week 4 Challenges\RJA3 Week 4 Challenges.csproj", "{53213051-C7F9-4A53-A655-050B65C5CB63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53213051-C7F9-4A53-A655-050B65C5CB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53213051-C7F9-4A53-A655-050B65C5CB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53213051-C7F9-4A53-A655-050B65C5CB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53213051-C7F9-4A53-A655-050B65C5CB63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C35F6FB0-9240-4B1C-AEF2-827A5FCF4383}
+	EndGlobalSection
+EndGlobal
